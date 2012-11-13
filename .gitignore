@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 /target
 .classpath
 .project
 /.settings
 /bin
 dependency-reduced-pom.xml
+=======
+target/
+>>>>>>> branch 'master' of git://github.com/jfort/craftconomy3.git
